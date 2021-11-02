@@ -1,2 +1,0 @@
-# CSES
-CSES PROBLEM SET SOLUTION IN C++ (.cpp).
